@@ -1,0 +1,160 @@
+<!--...-->	Defines comments in your page coding. Anything you put between the <!-- and --> tags in the body of your web page will be ignored by the browser.
+<!DOCTYPE>	Defines the document type
+
+A
+<a>	Primarily used as a hypertext link.
+<abbr>	Defines an abbreviation
+<acronym>	Allows authors to clearly indicate a sequence of characters that compose an acronym or abbreviation for a word. Not supported in HTML5.
+<address>	Defines contact information for the nearest <article> or <body> ancestor in the HTML document
+<applet>	The HTML <applet> tag is used for embedding a Java applet within an HTML document. Not supported in HTML5. Deprecated in HTML 4.01.
+<area>	Defines an area inside an image-map
+<article>*	Defines a self-contained composition in a document, page, application, or site, which is intended to be independently distributable or reusable, e.g., in syndication
+<aside>*	Defines content aside from the page content
+<audio>*	Used to represent sound content in documents. Added as part of HTML5, it may contain several audio sources, represented using the src attribute or the<source> element
+
+B
+<b>	This element indicates that the enclosed text should be displayed in boldface.
+<base>	This element specifies the base URL to use for all relative URLs contained within a document.
+<basefont>	Deprecated in HTML 4.01. Specifies a default colour, size, and font for all text in a document. Not supported in HTML5.
+<bdi>*	Isolates a part of text that might be formatted in a different direction from other text outside it
+<bdo>	This element is used to override the current directionality of text.
+<big>	This element defines big text. Not supported in HTML5.
+<blockquote>	This block element indicates that the enclosed text is an extended quotation. Usually, this is rendered visually by indentation.
+<body>	This element encloses a document's displayable content.
+<br>	Defines a single line break
+
+C
+<canvas>*	Used to draw graphics, via scripting (usually JavaScript)
+<caption>	Defines a table caption
+<center>	Deprecated in HTML 4.01. This element causes the enclosed content to be centered within the margins currently in effect.. Not supported in HTML5.
+<cite>	Defines the title of a work
+<code>	Indicates that the enclosed text is source code in a programming language.
+<col>	Defines a column within a table and is used for grouping and alignment purposes.
+<colgroup>	Specifies a group of one or more columns in a table for formatting
+<command>*	Defines a command button that a user can invoke
+
+D
+<datalist>*	Specifies a list of pre-defined options for input controls
+<dd>	Defines a description of an item in a definition list
+<del>	Defines text that has been deleted from a document
+<details>*	Defines additional details that the user can view or hide
+<dfn>	Defines a definition term
+<dialog>*	Defines a dialog box or window
+<dir>	Deprecated in HTML 4.01. Defines a directory list. Not supported in HTML5.
+<div>	Defines a section in a document
+<dl>	Defines a definition list
+<dt>	Defines a term (an item) in a definition list
+
+E
+<em>	Defines emphasized text 
+<embed>*	Defines a container for an external (non-HTML) application
+
+F
+<fieldset>	Groups related elements in a form
+<figcaption>*	Defines a caption for a <figure> element
+<figure>*	Specifies self-contained content
+<font>	Deprecated in HTML 4.01. Defines font, colour, and size for text. Not supported in HTML5.
+<footer>*	Defines a footer for a document or section
+<form>	Defines an HTML form for user input
+<frame>	Defines a window (a frame) in a frameset. Not supported in HTML5.
+<frameset>	Defines a set of frames. Not supported in HTML5.
+
+H
+<h1> to <h6>	Defines HTML headings
+<head>	Defines information about the document
+<header>*	Defines a header for a document or section
+<hgroup>	Groups heading (<h1> to <h6>) elements
+<hr>	Defines a thematic change in the content
+<html>	Defines the root of an HTML document
+
+I
+<i>	Defines a part of text in an alternate voice or mood
+<iframe>	Defines an inline frame
+<img>	Defines an image
+<input>	Defines an input control
+<ins>	Defines a text that has been inserted into a document
+
+K
+<kbd>	Defines keyboard input
+<keygen>*	Defines a key-pair generator field (for forms)
+
+L
+<label>	Defines a label for an <input> element
+<legend>	Defines a caption for a <fieldset>, <figure>, or <details> element
+<li>	Defines a list item
+<link>	Defines the relationship between a document and an external resource (most used to link to style sheets)
+
+M
+<main>*	Specifies the main content of a document
+<map>	Defines a client-side image-map
+<mark>*	Defines marked/highlighted text
+<menu>	Defines a list/menu of commands
+<meta>	Defines metadata about an HTML document
+<meter>*	Defines a scalar measurement within a known range (a gauge)
+
+N
+<nav>*	Defines navigation links
+<noframes>	Defines an alternate content for users that do not support frames. Not supported in HTML5.
+<noscript>	Defines an alternate content for users that do not support client-side scripts
+
+O
+<object>	Defines an embedded object
+<ol>	Defines an ordered list
+<optgroup>	Defines a group of related options in a drop-down list
+<option>	Defines an option in a drop-down list
+<output>*	Defines the result of a calculation
+
+P
+<p>	Defines a paragraph
+<param>	Defines a parameter for an object
+<pre>	Defines pre-formatted/space-preserving text
+<progress>*	Represents the progress of a task
+
+Q
+<q>	Defines a short quotation
+
+R
+<rp>*	Defines what to show in browsers that do not support ruby annotations
+<rt>*	Defines an explanation/pronunciation of characters (for East Asian typography)
+<ruby>*	Defines a ruby annotation (for East Asian typography)
+
+S
+<s>	Defines text that is no longer correct
+<samp>	Defines sample output from a computer program
+<script>	Defines a client-side script
+<section>*	Defines a section in a document
+<select>	Defines a drop-down list.
+<small>	Defines smaller text
+<source>*	Defines multiple media resources for media elements (<video> and <audio>)
+<span>	This element is used to group inline-elements in a document
+<strike>	Deprecated in HTML 4.01. Defines strike-through text. Not supported in HTML5.
+<strong>	Defines important text
+<style>	Defines style information for a document
+<sub>	Defines subscripted text
+<summary>*	Defines a visible heading for a <details> element
+<sup>	Defines superscripted text
+
+T
+<table>	Defines a table
+<tbody>	Groups the body content in a table
+<td>	Defines a cell in a table
+<textarea>	Defines a multi-line input control (text area)
+<tfoot>	Groups the footer content in a table
+<th>	Defines a header cell in a table
+<thead>	Groups the header content in a table
+<time>*	Defines a date/time
+<title>	Defines a title for the document
+<tr>	Defines a row in a table
+<track>*	Defines text tracks for media elements (<video> and <audio>)
+<tt>	Defines Teletype text. Not supported in HTML5.
+
+U
+<u>	Defines text that should be stylistically different from normal text
+<ul>	Defines an unordered list
+
+V
+<var>	Defines a variable
+<video>*	Defines a video or movie
+
+W
+<wbr>*	Defines a possible line-break
